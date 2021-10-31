@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import "../App.css";
 
-import Array from "./array";
-
 export default class Textform extends Component {
   state = {
     username: "",
